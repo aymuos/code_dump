@@ -1,0 +1,5 @@
+-Constructor chaining
+-String pooling
+-Annotations
+-<Generalization/Speciaization/	Composition> Inheritance
+-

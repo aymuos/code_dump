@@ -1,0 +1,13 @@
+1. query on student (where semester matches -> get student list #212 views_rashed.py
+2. check if every student has the given subject ->>Elective or not
+if not elective
+
+
+
+output excel columns :
+
+student_roll,student_name , marks_obtained_input< blank>,
+
+
+QUERIES:
+1>

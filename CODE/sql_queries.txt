@@ -1,0 +1,12 @@
+SELECT FIRST_NAME || ' ' || LAST_NAME AS FULL_NAME,SALARY 
+FROM employees WHERE SALARY<6000;
+
+SELECT firstname || ' ' || LAST_NAME AS FULLNAME , DEPARTMENT ,SALARY 
+FROM EMPLOYEES WHERE SALARY>8000
+
+q> Write a query in SQL to display the full name (first and last), hire date, salary, and department number for those employees whose first name does not contain the letter M. The result set must be in ascending order by department number.
+A>SELECT first_name || ' ' || last_name as Full_Name, hire_date,  
+ salary,  department_id
+  FROM employees
+   WHERE first_name NOT LIKE '%M%'
+     ORDER BY department_id;
