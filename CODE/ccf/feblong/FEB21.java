@@ -1,0 +1,13 @@
+import java.util.*;
+import java.lang.*;
+class FEB21{
+
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-- >0){
+            
+        }
+        
+    }
+}

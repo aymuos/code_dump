@@ -10,7 +10,7 @@ console.log(paras);*/
 //console.log(title);
 //const errors = document.getElementsByClassName("error");
 //console.log(errors);
-
+console.log("working")
 const pasre =document.querySelector('p'); 
 console.log(pasre);
 pasre.innerText += 'ninjas are awesome';
