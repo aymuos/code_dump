@@ -15,7 +15,7 @@ class opa24m{
             this.name=name;
             this.team=team;
         }
-        public int 
+        public int
     }
 
     public static void main(String[] args) {
